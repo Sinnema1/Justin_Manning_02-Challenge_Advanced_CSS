@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! This project showcases my work, skills, and contact information. It is built using HTML and CSS, with a focus on responsive design to ensure it looks great on all devices.
+Welcome to my portfolio. This project represents examples of my work using HTML and CSS.
 
 ## Table of Contents
 
@@ -9,14 +9,12 @@ Welcome to my portfolio! This project showcases my work, skills, and contact inf
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
-- [CSS Excerpt](#css-excerpt)
 
 ## Overview
 
-This portfolio website is designed to highlight my projects, provide information about me, and offer ways to get in touch. It includes a hero banner, an about section, a projects section, and a contact section.
+This portfolio website is designed to highlight my projects, provide information about me, and offer ways to get in touch. It includes a banner, an about section, a projects section, and a contact section.
 
 ## Features
 
@@ -26,8 +24,8 @@ This portfolio website is designed to highlight my projects, provide information
 
 ## Technologies Used
 
-- **HTML5**: For the structure of the website.
-- **CSS3**: For styling and layout, including Flexbox for responsive design.
+- **HTML**: For the structure of the website.
+- **CSS**: For styling and layout, including Flexbox for responsive design.
 
 ## Setup
 
@@ -45,7 +43,7 @@ To set up this project locally, follow these steps:
 
 ## Usage
 
-To view the portfolio, simply open the index.html file in your web browser. You can also use a live server extension in your code editor for a better development experience.
+To view the portfolio, simply open the index.html file in your web browser.
 
 ## Credits
 
