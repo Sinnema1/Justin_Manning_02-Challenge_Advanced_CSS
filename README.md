@@ -37,7 +37,11 @@ To set up this project locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/your-repo-name.git
 2. **Navigate to the project directory**:
+   ```sh
+   git your-repo-name
 3. **Open the project in your preferred code editor**:
+   ```sh
+   code .
 
 ## Usage
 
